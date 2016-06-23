@@ -1,10 +1,9 @@
-Please develop in the "beta" branch, add all new code to that branch.
-When your "beta" branch code is done,  move it to the "develop" branch so the group is aware of what can be tested.
+Please develop in the "develop" branch, add all new code to that branch. This includes story, images and other non-gameplay
+related items.
+When your "develop" branch code is done,  move it to the "beta" branch so the group is aware of what can be tested.
 We can all test and run any code in the beta branch. When develop branch code is done and tested lightly, it can move into beta.
 The beta branch is where all code goes for testing, we should be running the game during testing off of beta code. 
-
 Essentially the master branch SHOULD BE EMPTY for the majority of development, and most code should be in the beta branch
-
 Obviously, we will add code to the master branch just for organization purposes, but during development, stick to using the
 development and beta branches respectively. 
 
